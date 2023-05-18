@@ -6,35 +6,23 @@ FoodieCrush uses the Edamam API to fetch and display recipe data. It allows user
 
 
 ## Demo
+https://vani-recipe.netlify.app/
 
 
-
+![Screenshot (28)](https://github.com/vanisaxena/Food-Recipe-Finder/assets/71544568/2dcdcd69-a8c7-47c4-96b8-875644baae2e)
 
 ## API Reference
 
-#### Get all items
-
-```http
-  GET /api/items
-```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
 
 
 ## Deployment
