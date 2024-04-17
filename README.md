@@ -4,6 +4,7 @@
 FoodieCrush uses the Edamam API to fetch and display recipe data. It allows users to search for recipes, see the ingredients and view detailed directions.
 
 ## Want to se the Figma Design for my app. 
+[Click Me](https://www.figma.com/file/59sVMMCzchP7bWwbx5N6Ed/Untitled?type=design&node-id=0%3A1&mode=design&t=Ojv8RfAwRf0zyQjZ-1)
 https://www.figma.com/file/59sVMMCzchP7bWwbx5N6Ed/Untitled?type=design&node-id=0%3A1&mode=design&t=Ojv8RfAwRf0zyQjZ-1
 
 ## Demo
